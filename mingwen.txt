@@ -1,0 +1,1 @@
+The normal deision table representation has four separate parts in a specific format
